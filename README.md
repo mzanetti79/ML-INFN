@@ -29,5 +29,5 @@ source activate ml-infn
 ### Check that all required packages are correctly installed
 
 ```shell
-python 00_prerequisites_check.py
+python check_prerequisites.py
 ```
